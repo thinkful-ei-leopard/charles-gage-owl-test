@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the UI as expected 1`] = `
+<div
+  className="session-participant"
+>
+  <img
+    className="user-avatar"
+  />
+  <div
+    className="participant-info"
+  >
+    <h6
+      className="participant-name"
+    />
+    <div
+      className="participant-status participant-status__green"
+    >
+      left session
+    </div>
+  </div>
+</div>
+`;
